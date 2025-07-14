@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/qbgct_src/Data and RCode")' >> /home/jovyan/.Rprofile
